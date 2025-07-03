@@ -4,7 +4,7 @@
     "location": {
       "lat": 52.389587,
       "lon": 4.541588,
-      "description": "Zandvoort, Netherlands"
+      "description": "Zandvoort, Nederland"
     }
   },
   {
@@ -12,7 +12,7 @@
     "location": {
       "lat": 50.334714,
       "lon": 6.946100,
-      "description": "Nürburg, Germany"
+      "description": "Nürburg, Duitsland"
     }
   },
   {
@@ -20,7 +20,7 @@
     "location": {
       "lat": 50.444024,
       "lon": 5.965373,
-      "description": "Stavelot, Belgium"
+      "description": "Stavelot, België"
     }
   },
   {
@@ -28,7 +28,7 @@
     "location": {
       "lat": 47.951650,
       "lon": 0.207762,
-      "description": "Le Mans, France"
+      "description": "Le Mans, Frankrijk"
     }
   }
 ]
